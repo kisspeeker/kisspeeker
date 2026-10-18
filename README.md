@@ -2,7 +2,7 @@
 
 ### Frontend Developer
 <!-- EXPERIENCE:START -->
-**8 years** of experience
+8 years 11 months of experience
 <!-- EXPERIENCE:END -->
 
 ### Lovely making user-friendly Apps
