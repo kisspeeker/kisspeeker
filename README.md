@@ -67,10 +67,6 @@
         <div>NestJS</div>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="Vue" />
-        <div>Graphql</div>
-    </td>
-    <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Vue" />
         <div>NodeJS</div>
     </td>
