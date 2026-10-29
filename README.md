@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Aleksandr Shiriakov
+## Self (non-enterprise) creator, AI-lover (hater)
+
+This guy makes useless things and thinks he's a programmer
 
 ### Frontend Developer
 <!-- EXPERIENCE:START -->
@@ -10,7 +12,7 @@
 - 🏢 I'm currently working at **[r_keeper]**
 - 🔭 I’m currently working on my **[platform-core]**
 - 🌱 I’m currently learning **Infosec**
-- 💬 I like to talk about **Vue 2 to Vue 3 Migration**
+- 💬 I like to talk about **AI invasion**
 - 💻 Connect with me on **[Telegram]**
 
 ### My favourite stack
