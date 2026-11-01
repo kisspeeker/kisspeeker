@@ -4,7 +4,7 @@ This guy makes useless things and thinks he's a programmer
 
 ### Frontend Developer
 <!-- EXPERIENCE:START -->
-8 years 11 months of experience
+9 years of experience
 <!-- EXPERIENCE:END -->
 
 ### Lovely making user-friendly Apps
